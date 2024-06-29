@@ -1,0 +1,23 @@
+#calcu{ 
+    background-color: brown;
+height: 370px;
+width: 395px;
+}
+#btc{
+    display: flex;
+    justify-content: center;
+flex-wrap: wrap;
+
+}
+.bt{
+    height: 50px;
+    width: 90px;
+    margin-top: 3px;
+    padding: 2px;
+    
+}
+#display{
+    margin: 25px;
+    width: 85%;
+    height: 40px;
+}
